@@ -1,0 +1,1 @@
+For this model and log the PROM Plugin: "Replay a Log on Petri Net for All Optimal Alignments", selecting the Algorithm: "Graph-base state pace replay to obtain all optimal alignments." The plug in does not find all optimal alignments. It only finds the solution where B and E are Log moves, but not the Alignements where B&E are aligned as sync moves and D&C as model moves.
